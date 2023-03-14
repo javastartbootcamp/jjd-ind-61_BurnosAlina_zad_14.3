@@ -11,6 +11,6 @@ public class Country {
 
     @Override
     public String toString() {
-        return name + " (" + code + ") ma " + population + " ludności";
+        return name + " (" + code + ") ma " + population + " ludności.";
     }
 }
